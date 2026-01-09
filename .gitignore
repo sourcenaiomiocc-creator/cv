@@ -1,0 +1,20 @@
+# System Files
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Original files (keep only renamed versions)
+WhatsApp*.jpeg
+WhatsApp*.jpg
+CV_Europass*.html
