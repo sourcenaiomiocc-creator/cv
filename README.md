@@ -143,7 +143,6 @@ Este projeto é de uso pessoal. Sinta-se livre para usar como referência, mas p
 ## 📞 Contato
 
 - **Email**: sourcenaiomiocc@gmail.com
-- **LinkedIn**: [linkedin.com/in/julio-cesar-fernandes-b69338343](https://linkedin.com/in/julio-cesar-fernandes-b69338343)
 - **GitHub**: [github.com/sourcenaiomiocc-creator](https://github.com/sourcenaiomiocc-creator)
 
 ## 🌟 Recursos Adicionais
