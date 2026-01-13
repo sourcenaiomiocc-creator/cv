@@ -138,7 +138,9 @@ No arquivo `index.html`, localize a seção `<!-- Projects Section -->` e adicio
 
 ## 📄 Licença
 
-Este projeto é de uso pessoal. Sinta-se livre para usar como referência, mas por favor, personalize com suas próprias informações.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+Sinta-se livre para usar como referência, mas por favor, personalize com suas próprias informações.
 
 ## 📞 Contato
 
